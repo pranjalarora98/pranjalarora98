@@ -1,29 +1,36 @@
 # 👋 Hi, I’m Pranjal Arora  
 
-🚀 **Frontend Engineer | Fullstack Enthusiast**  
-With **5+ years of experience** building scalable web applications in both **B2B** and **B2C** domains, I specialize in creating seamless user experiences and efficient system designs.  
+🚀 **Senior Software Developer (JavaScript) | Frontend Engineer | Fullstack Enthusiast**  
+With **5+ years of experience** building scalable web applications in both **B2B** and **B2C** domains, I specialize in creating seamless user experiences and efficient system designs. Passionate about crafting impactful products and continuously improving performance, usability, and scalability.  
 
 ---
 
 ## 💻 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js, Next.js  
+- **Frontend:** HTML, CSS, JavaScript, React, Vue.js, Next.js, Ionic  
 - **Backend:** Node.js, Express  
+- **State Management:** Redux, Vuex  
+- **Testing:** Jest  
 - **DevOps & Tools:** Git, CI/CD pipelines, Docker, Deployment strategies  
-- **Other:** Strong understanding of system design and end-to-end workflows  
+- **Other:** Responsive Web Design, System Design, Agile Methodologies  
 
 ---
 
 ## 📌 Featured Projects  
-- 🔐 [Auth Service](https://github.com/pranjalarora98/auth-service) – Authentication and authorization service with Node.js  
+- 🔐 [Auth Service](https://github.com/pranjalarora98/auth-service) – Authentication & authorization service with Node.js  
 - 📦 [Order Service](https://github.com/pranjalarora98/order-service) – Backend service handling order flows  
-- 📊 [Excel Project](https://github.com/pranjalarora98/excel-project) – Working with Excel data in a web-based workflow  
+- 📊 [Excel Project](https://github.com/pranjalarora98/excel-project) – Web-based Excel data workflows  
+- 🗂️ [Catalog Service](https://github.com/pranjalarora98/catalog-service) – Product catalog management service  
+- 🔌 [WS Service](https://github.com/pranjalarora98/ws-service) – WebSocket-based service for real-time communication  
+- 💱 [Exchange Project](https://github.com/pranjalarora98/Exchange-project) – Currency exchange system  
+- ⚡ [Zapier](https://github.com/pranjalarora98/zapier) – Automation workflows inspired by Zapier  
 
 ---
 
 ## 🌟 What I bring  
-- 5 years of hands-on experience in **frontend and fullstack development**  
-- Exposure to **system design concepts** and **scalable architectures**  
-- Passion for building **clean, maintainable, and user-focused solutions**  
+- Proven experience in **building systems from scratch** and scaling them for enterprise use.  
+- Strong focus on **frontend excellence** with an ability to handle **fullstack responsibilities**.  
+- Hands-on expertise in **agile practices, CI/CD, and production deployments**.  
+- Experience collaborating across teams, vendors, and stakeholders to deliver impactful solutions.  
 
 ---
 
@@ -44,6 +51,7 @@ With **5+ years of experience** building scalable web applications in both **B2B
 
 ## 📫 Let’s Connect  
 - **GitHub:** [@pranjalarora98](https://github.com/pranjalarora98)  
+- **Email:** pranjalarora98@gmail.com  
 
 ---
 
